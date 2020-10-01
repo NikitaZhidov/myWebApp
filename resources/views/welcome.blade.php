@@ -7,7 +7,6 @@
 
     <title>app</title>
 
-    <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
 </head>
 
@@ -24,8 +23,7 @@
     }
 
     .authbtn {
-        font-family: Arial, Helvetica, sans-serif;
-        font-size: 24px;
+        font-family: Nunito;
         margin: 0px 12px 0px 0px;
     }
 
